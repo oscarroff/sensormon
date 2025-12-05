@@ -1,8 +1,8 @@
 # sensormon
 DIY sensor accordion project with arduino
 
-![IMG_0912](https://github.com/user-attachments/assets/4490d7ab-7363-4cd5-a960-d7c26ca79c30)
-![IMG_0914](https://github.com/user-attachments/assets/31e41c23-5666-4772-81fe-78c2099fd3ec)
+![IMG_0912](https://github.com/user-attachments/assets/12342101-7d61-4c14-a15f-62c9a7bb7d76)
+![IMG_0914 copy](https://github.com/user-attachments/assets/01375a0a-cff1-462d-9d45-36c10c14c8ca)
 
 Info about this project coming soon. For now, watch it in action!
 
